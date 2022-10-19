@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f2384225
 license: CC0-1.0
+name: upper-midwest-names
 type: townname
+url: https://github.com/amadingo/upper-midwest-names
 version: 6
