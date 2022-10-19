@@ -1,4 +1,4 @@
-available: false
+available: true
 id: 2
 mainset:
 - names:
@@ -6,6 +6,8 @@ mainset:
     probability: 1
   - name: Eagle Lake
     probability: 1
+  - name: Waupun
+    probability: 1
 name: 'New Townname #2'
-source: ''
+source: null
 subsets: []
