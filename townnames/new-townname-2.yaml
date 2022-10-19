@@ -1,7 +1,11 @@
 available: false
 id: 2
 mainset:
-- names: []
+- names:
+  - name: Powers Lake
+    probability: 1
+  - name: Eagle Lake
+    probability: 1
 name: 'New Townname #2'
 source: ''
 subsets: []
