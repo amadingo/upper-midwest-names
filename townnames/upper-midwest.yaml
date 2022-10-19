@@ -1,0 +1,13 @@
+available: true
+id: 2
+mainset:
+- names:
+  - name: Powers Lake
+    probability: 1
+  - name: Eagle Lake
+    probability: 1
+  - name: Waupun
+    probability: 1
+name: Upper Midwest
+source: null
+subsets: []
